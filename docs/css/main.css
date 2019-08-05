@@ -22,7 +22,7 @@ body {
   min-height: 740px;
   height: 100%;
   width: 100vw;
-  background-image: url("/img/layer.jpg");
+  background-image: url("../img/layer.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -138,7 +138,7 @@ body {
     .about_us_block .about_us .about_us_img span {
       width: 100%;
       height: 100%;
-      background-image: url("/img/layer2.jpg");
+      background-image: url("../img/layer2.jpg");
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat; }
@@ -176,7 +176,7 @@ body {
       .detal_about .detal_about_us .detal_touch .one_ico:hover {
         background: #19bd9a; }
       .detal_about .detal_about_us .detal_touch .one_ico span {
-        background-image: url(/img/ico/ico.png);
+        background-image: url("../img/ico/ico.png");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -194,7 +194,7 @@ body {
       .detal_about .detal_about_us .detal_touch .two_ico:hover {
         background: #19bd9a; }
       .detal_about .detal_about_us .detal_touch .two_ico span {
-        background-image: url(/img/ico/ico2.png);
+        background-image: url("../img/ico/ico2.png");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -212,7 +212,7 @@ body {
       .detal_about .detal_about_us .detal_touch .three_ico:hover {
         background: #19bd9a; }
       .detal_about .detal_about_us .detal_touch .three_ico span {
-        background-image: url(/img/ico/ico3.png);
+        background-image: url("../img/ico/ico3.png");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -256,7 +256,7 @@ body {
         .our_projects .our_projects_gallery .projects_img .projects_list .projects_one:hover {
           width: 100%; }
         .our_projects .our_projects_gallery .projects_img .projects_list .projects_one span {
-          background-image: url("/img/works/work.jpg");
+          background-image: url("../img/works/work.jpg");
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
@@ -287,7 +287,7 @@ body {
           .our_projects .our_projects_gallery .projects_img .projects_list .projects_two:hover .text {
             opacity: 0; }
         .our_projects .our_projects_gallery .projects_img .projects_list .projects_two span {
-          background-image: url("/img/works/work2.jpg");
+          background-image: url("../img/works/work2.jpg");
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
@@ -327,7 +327,7 @@ body {
           .our_projects .our_projects_gallery .projects_img .projects_list .projects_three:hover .text {
             opacity: 0; }
         .our_projects .our_projects_gallery .projects_img .projects_list .projects_three span {
-          background-image: url("/img/works/work3.jpg");
+          background-image: url("../img/works/work3.jpg");
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
@@ -346,7 +346,7 @@ body {
   height: 130px;
   justify-content: space-between;
   align-items: center;
-  background-image: url(/img/works/foot.png);
+  background-image: url("../img/works/foot.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat; }

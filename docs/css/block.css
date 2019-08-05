@@ -22,7 +22,7 @@ body {
   min-height: 740px;
   height: 100%;
   width: 100vw;
-  background-image: url("/img/layer.jpg");
+  background-image: url("../img/layer.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
