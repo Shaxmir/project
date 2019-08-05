@@ -1,0 +1,32 @@
+.hero_header {
+  display: flex;
+  width: 95%;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 0; }
+  .hero_header .logo {
+    display: flex;
+    font-size: 25px;
+    color: #fff;
+    font-family: inherit; }
+  .hero_header .nav_menu {
+    display: flex; }
+    .hero_header .nav_menu .menu_list {
+      display: flex;
+      width: 500px;
+      align-items: center;
+      justify-content: space-between;
+      list-style: none; }
+      .hero_header .nav_menu .menu_list .menu_item {
+        display: flex;
+        font-size: 16px; }
+        .hero_header .nav_menu .menu_list .menu_item:hover {
+          border: 1px solid #fff;
+          border-radius: 50px; }
+        .hero_header .nav_menu .menu_list .menu_item .menu_link {
+          padding: 7px 23px;
+          text-decoration: none;
+          color: #fff; }
+
+/*# sourceMappingURL=hero_menu.css.map */
