@@ -1,0 +1,31 @@
+.hero_content_text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+  .hero_content_text .title_hero {
+    font-size: 35px;
+    color: #fff;
+    padding: 20px; }
+  .hero_content_text .text_hero {
+    font-size: 16px;
+    color: #fff; }
+
+.hero_scroll {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 77px; }
+  .hero_scroll .scroll_block {
+    width: 40px;
+    height: 40px;
+    background: #19bd9a;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    .hero_scroll .scroll_block span {
+      color: #fff;
+      font-size: 17px; }
+
+/*# sourceMappingURL=hero_content.css.map */

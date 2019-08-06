@@ -1,0 +1,115 @@
+.detal_about{
+    .detal_about_us{
+        padding: 75px 168px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        .detal_one_block{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            .detal_title{
+                font-size: 30px;
+                padding: 40px;
+            }
+            }
+            .detal_text{
+                font-size: 18px;
+                color: gray;
+            }
+        
+        .detal_touch{
+            display: flex;
+    justify-content: space-between;
+    width: 300px;
+    padding: 40px;
+            .one_ico{
+                width: 60px;
+                height: 60px;
+                border-radius: 50%;
+                background: #81868e;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                &:hover {
+                    background: #19bd9a;
+                }
+                span {
+                    background-image: url(/img/ico/ico.png);
+                    background-size: cover;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    width: 35px;
+                    height: 35px;
+                    display: flex;
+                }
+            }
+            .two_ico{
+                width: 60px;
+                height: 60px;
+                border-radius: 50%;
+                background: #81868e;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                &:hover {
+                    background: #19bd9a;
+                }
+                span {
+                    background-image: url(/img/ico/ico2.png);
+                    background-size: cover;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    width: 35px;
+                    height: 35px;
+                    display: flex;
+                }
+            }
+            .three_ico{
+                width: 60px;
+                height: 60px;
+                border-radius: 50%;
+                background: #81868e;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                &:hover {
+                    background: #19bd9a;
+                }
+                span {
+                    background-image: url(/img/ico/ico3.png);
+                    background-size: cover;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    width: 35px;
+                    height: 35px;
+                    display: flex;
+                }
+            }
+        }
+    }
+        .detal_two_block{
+            display: flex;
+            flex-direction: column;
+            .detal_title{
+                h2 {
+
+                }
+            }
+            .detal_text {
+                display: flex;
+                margin-top: 30px;
+                .detal_text_one{
+                
+                }
+                .detal_text_two{
+    
+                }
+                
+            }
+           
+        }
+    
+}

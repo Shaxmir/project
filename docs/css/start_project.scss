@@ -1,0 +1,44 @@
+.start_proj{
+    width: 100vw;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f3f3f3;
+        padding: 30px 0;
+        .start{
+        width: 1120px;
+        height: 200px;
+        background-image: url('/img/works/foot2.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        &::before {
+            content: "";
+            width: 100%;
+            height: 100%;
+            background: rgba($color: #1aa486, $alpha: .5);
+            position: absolute;
+            z-index: 1;
+        }
+        h3 {
+            z-index: 2;
+            color: #fff;
+            padding: 30px;
+        }
+        .start_link {
+            z-index: 2;
+            color: #fff;
+            padding: 7px 12px;
+            border-radius: 50px;
+            border: 1px solid #fff;
+            text-decoration: none;
+
+        }
+    }
+}
